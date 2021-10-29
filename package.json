@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "portfolio.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/portfolio.scss -o css/ -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saya0118/portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "sayaka matsuda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saya0118/portfolio/issues"
+  },
+  "homepage": "https://github.com/saya0118/portfolio#readme",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
