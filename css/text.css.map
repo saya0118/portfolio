@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEI,QAAM;EACF,UAAU,EAAE,GAAG",
+"sources": ["../sass/text.scss"],
+"names": [],
+"file": "text.css"
+}

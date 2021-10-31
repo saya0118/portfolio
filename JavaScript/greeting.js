@@ -1,5 +1,5 @@
 
-const content = "Welcome abroad!";
+const content = "Hi, I'm Saya!";
 
 const typing = (element, sentence) => {
 	[...sentence].forEach((character, index) => {
